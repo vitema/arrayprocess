@@ -1,0 +1,8 @@
+D:\Projects\Git\arraynumberkasperskytest\UnitTestProject\bin\Debug\UnitTestProject.dll
+D:\Projects\Git\arraynumberkasperskytest\UnitTestProject\bin\Debug\UnitTestProject.pdb
+D:\Projects\Git\arraynumberkasperskytest\UnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\Git\arraynumberkasperskytest\UnitTestProject\bin\Debug\ProcessingNumbers.exe
+D:\Projects\Git\arraynumberkasperskytest\UnitTestProject\bin\Debug\ProcessingNumbers.pdb
+D:\Projects\Git\arraynumberkasperskytest\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+D:\Projects\Git\arraynumberkasperskytest\UnitTestProject\obj\Debug\UnitTestProject.dll
+D:\Projects\Git\arraynumberkasperskytest\UnitTestProject\obj\Debug\UnitTestProject.pdb
